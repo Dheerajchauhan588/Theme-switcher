@@ -1,5 +1,16 @@
-=======
+# Theme Switcher
 
-# Theme-switcher
+This is a React + Vite project that implements a theme switcher (Light Mode / Dark Mode).
 
-> > > > > > > f0d03f72d776975e5e1697e5107b469a55a9225c
+## 🚀 Features
+
+- Toggle between Light and Dark themes
+- Built with React + Vite
+- Easy to customize
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dheerajchauhan588/Theme-switcher.git
+   ```
